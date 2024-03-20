@@ -24,7 +24,7 @@ pip install .
 ### Interactive Gaussian Splat Viewer with Kaolin
 A interactive [notebook](https://github.com/shumash/gaussian-splatting/blob/mshugrina/interactive/interactive.ipynb) that can load your `.ply` file and rend it by (position, target and up) mode which is not convenient for robotics. And you also need to install [kaolin](https://github.com/NVIDIAGameWorks/kaolin).
 
-### Interactive Gaussian Splat Viewer without CUD
+### Interactive Gaussian Splat Viewer without CUDA
 A interactive [notebook](https://github.com/thomasantony/splat/blob/master/notes/00_Gaussian_Projection.ipynb) that can load your `.ply` file and rend it by (position, target and up) mode which is not convenient for robotics. It allows you render 3DGS without CUDA but far from being real-time.
 
 ## Acknowledgement
