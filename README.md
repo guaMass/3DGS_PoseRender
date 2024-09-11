@@ -38,4 +38,4 @@ We thank the authors of the following repositories for their open-source code:
 This work also inspired by this great blog from [Tony](https://www.thomasantony.com/posts/gaussian-splatting-renderer/)
 
 ## License
-Distributed under the MIT License. And the authority shared by Shenzhen Sumeruai Ltd.
+Distributed under the MIT License.
